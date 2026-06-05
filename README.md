@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sumaiya Naz <br>A MERN Stack Developer in progress, building real-world web applications with a strong foundation in modern JavaScript.<br><br>🌱 Learning MongoDB, Express.js, React.js<br>🛠 Tech stack: HTML | CSS | JavaScript (ES6) | TypeScript | Supabase  <br>👨‍💻 Projects: https://github.com/SumaiyaNaz  <br>📫 Contact: sumaiyanaz2468@gmail.com <br>
+Hi 👋, I'm Sumaiya Naz <br>A MERN Stack Developer , building real-world web applications with a strong foundation in modern JavaScript.<br><br>🌱 Learning MongoDB, Express.js, React.js<br>🛠 Tech stack: HTML | CSS | JavaScript (ES6) | TypeScript | Supabase  <br>👨‍💻 Projects: https://github.com/SumaiyaNaz  <br>📫 Contact: sumaiyanaz2468@gmail.com <br>
 
 
 ## 🌐 Socials:
