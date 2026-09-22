@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sumaiya Naz <br>A Full-Stack MERN Developer, building scalable, real-world web applications with modern JavaScript and full-stack architecture.<br><br>🌱 Currently mastering: Full-Stack MERN Architecture, Backend Optimization & API Design<br>🛠 Tech stack: HTML | CSS | JavaScript | TypeScript | React | Node.js | Express | MongoDB | Tailwind CSS | Supabase | Vercel<br>👨‍💻 Projects: https://github.com/SumaiyaNaz<br>📫 Contact: sumaiyanaz2468@gmail.com <br>
-
+Hi 👋, I'm Sumaiya Naz <br>A Full-Stack MERN Developer, building scalable, real-world web applications with modern JavaScript and full-stack architecture.<br><br>🎓 Certified Web & App Developer (Diploma from SMIT)<br>🛠 Tech stack: HTML | CSS | JavaScript | TypeScript | React | Node.js | Express | MongoDB | Tailwind CSS | Supabase | Vercel<br>👨‍💻 Projects: https://github.com/SumaiyaNaz<br>📫 Contact: sumaiyanaz2468@gmail.com <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-naz-7a68282a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumaiyanaz2468@gmail.com) 
